@@ -9,7 +9,9 @@ export const metadata: Metadata = {
   title: "CountText - Your Ultimate Text Analyzer Chrome Extension",
   description:
     "Instantly analyze selected or pasted text for word count, character breakdown, sentence stats, and reading time — all inside your browser.",
-    generator: 'v0.dev'
+  icons: {
+    icon: "/favicon.ico.png",
+  },
 }
 
 export default function RootLayout({

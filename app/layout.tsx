@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description:
     "Instantly analyze selected or pasted text for word count, character breakdown, sentence stats, and reading time — all inside your browser.",
   icons: {
-    icon: "/favicon.ico.png",
+    icon: "/CountText.png",
   },
 }
 
